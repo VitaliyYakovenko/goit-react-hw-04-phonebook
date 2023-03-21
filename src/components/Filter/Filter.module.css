@@ -1,0 +1,18 @@
+
+.phonebook__filter {
+    width: 350px;
+    margin: 0 auto;
+}
+
+.phonebook__label {
+    text-align: left;
+    display: block;
+    margin-bottom: 5px;
+}
+
+.phonebook__input {
+    width: 350px;
+    border-radius: 10px;
+    padding: 5px;
+    margin-bottom: 15px;   
+}
